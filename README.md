@@ -1,11 +1,11 @@
-# 🌐 web-playground
+# web-playground
 
 A playground project to practice **HTML**, **CSS**, and **JavaScript** concepts.  
 This repository is used to explore **Git basics**, including initializing a repository, staging and committing changes, and managing ignored files.
 
 ---
 
-## 🚀 Git Basics Covered
+## Git Basics Covered
 - Initialize a local Git repository  
 - Stage and commit changes  
 - Create and use a `.gitignore` file  
